@@ -68,5 +68,32 @@ The Deployment phase is cricial. To complete this phase follow following steps-
 
 
 ### Now Your Project is Complete
+- If you are stucked in any point feel free to contact me on email or phone
+- For more such type of content don't forget to give a star and follow me on LinkedIn and Twitter.
+  
+## 🚀 About Me
+- 👋 Hi, I’m @Deepesh0289
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analytics
+- 📫 Approach me at deepesh.saini011@gmail.com or 
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-saini-0289/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Deepesh0289?t=7R0Krl-H0wt7p7anZH1R1Q&s=08)
+[![Whatsapp](https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png)]
+
+
+## 🛠 Skills
+- Pandas
+- Python
+- Streamlit
+- Statistics
+- Scikit-Learn
+- Data Cleaning
+- Jupyter Notebook or Google Colab
+
 
 
