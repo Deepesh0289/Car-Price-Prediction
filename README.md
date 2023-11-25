@@ -56,10 +56,11 @@ The Deployment phase is cricial. To complete this phase follow following steps-
   - xgb_model.json
   - require2.txt or requirement.txt
 - Now go to the same folder and open command prompt into it. Now run the following command
-  streamlit run main.py
-  ![WhatsApp Image 2023-11-22 at 6 41 04 AM (1)](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/7f0398c9-260d-4caf-9c97-7ff2d62c5771)
+  ###### streamlit run main.py
+  
 
   - Then enter your email
+  - ![WhatsApp Image 2023-11-22 at 6 41 04 AM (1)](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/7f0398c9-260d-4caf-9c97-7ff2d62c5771)
   - After entering your email you will be redirected to the interface of your application
 
 ### Now Your Project is Complete
