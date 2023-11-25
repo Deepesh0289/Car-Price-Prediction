@@ -75,7 +75,7 @@ The Deployment phase is cricial. To complete this phase follow following steps-
 - 👋 Hi, I’m @Deepesh0289
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
-- 📫 Approach me at deepesh.saini011@gmail.com or 
+- 📫 Approach me at deepesh.saini011@gmail.com or 7455085962
 
 
 
@@ -96,23 +96,6 @@ The Deployment phase is cricial. To complete this phase follow following steps-
 - Jupyter Notebook or Google Colab
 - 
 
-    <script>
-        (function (){
-            let script = document.createElement('script')
-            script.type = "text/javascript";
-            script.src = "https://cdn.jsdelivr.net/gh/BEN00262/whatsapp-embed-icon/lib/index.js";
-
-            script.addEventListener('load', function () {
-                DisplaySocialMediaIcon({
-                    contact:  "phone number without the leading +",
-                    call_to_action: "Welcome, how can we help you? ", // replace with your message
-                    position: "right" // "right | left"
-                })
-            })
-
-            document.currentScript.parentNode.insertBefore(script, document.currentScript)
-        })();
-    </script>
 
 
 
