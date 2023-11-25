@@ -94,6 +94,25 @@ The Deployment phase is cricial. To complete this phase follow following steps-
 - Scikit-Learn
 - Data Cleaning
 - Jupyter Notebook or Google Colab
+- 
+
+    <script>
+        (function (){
+            let script = document.createElement('script')
+            script.type = "text/javascript";
+            script.src = "https://cdn.jsdelivr.net/gh/BEN00262/whatsapp-embed-icon/lib/index.js";
+
+            script.addEventListener('load', function () {
+                DisplaySocialMediaIcon({
+                    contact:  "phone number without the leading +",
+                    call_to_action: "Welcome, how can we help you? ", // replace with your message
+                    position: "right" // "right | left"
+                })
+            })
+
+            document.currentScript.parentNode.insertBefore(script, document.currentScript)
+        })();
+    </script>
 
 
 
