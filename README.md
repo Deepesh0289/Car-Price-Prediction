@@ -62,12 +62,11 @@ The Deployment phase is cricial. To complete this phase follow following steps-
     ![WhatsApp Image 2023-11-22 at 6 41 04 AM (1)](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/7f0398c9-260d-4caf-9c97-7ff2d62c5771)
   - After entering your email you will be redirected to the interface of your application. But in some case if you are not redirected to the browser or your application interface try to put local URL or Networl URL into search bar.
 
- #### Now your interface looki a like
+ #### Now your interface will look like this-
  ![WhatsApp Image 2023-11-22 at 6 41 03 AM](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/efa47b5d-1462-4828-b589-342d4c5cec12)
 ![WhatsApp Image 2023-11-22 at 6 41 03 AM (1)](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/ca0bac7a-5f05-4a96-b45d-ad5220e67df5)
 
 
 ### Now Your Project is Complete
 
-# This Repository is Under Construction.
 
